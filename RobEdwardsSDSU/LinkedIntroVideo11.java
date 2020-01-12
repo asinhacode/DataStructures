@@ -4,17 +4,17 @@ public class LinkedList<E>
 {
 	// private class of LinkedList
 	/*  A description of a node
-	 * 			__________
-				|		         | 
-				|	   data    |
-				|		         |
-				|		         |
-				| __________ |		   
-				|		         |
-				|		         |
-				|	   next    |
-				|		         |
-				| ___________|		   
+	 * 			 _________
+				|         | 
+				|  data   |
+				|         |
+				|         |
+				| _______ |		   
+				|         |
+				|         |
+				|  next   |
+				|         |
+				|_________|		   
 				
 	 */
 	class Node<E>
